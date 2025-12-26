@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Excel files (Data)
+*.xlsx
+*.xls
+*.csv
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
